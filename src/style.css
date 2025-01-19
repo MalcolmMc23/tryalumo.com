@@ -1,0 +1,172 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light;
+  color: #1a1a1a;
+  background-color: #ffffff;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.logo-image {
+  width: 40px;
+  height: 40px;
+}
+
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
+.welcome-message {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.welcome-message h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 0.5rem;
+}
+
+.welcome-message p {
+  font-size: 1.1rem;
+  color: #4b5563;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.nav-button {
+  background: #f3f4f6;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  color: #4b5563;
+  font-weight: 500;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+
+.nav-button:hover {
+  background: #e5e7eb;
+}
+
+.input-container {
+  display: flex;
+  gap: 1rem;
+  background: #f9fafb;
+  padding: 1rem;
+  border-radius: 12px;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  border: 1px solid #e5e7eb;
+}
+
+input {
+  flex: 1;
+  padding: 0.8em 1.2em;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  background-color: white;
+  color: #1a1a1a;
+  font-size: 1rem;
+}
+
+input:focus {
+  outline: none;
+  border-color: #8b5cf6;
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.1);
+}
+
+button {
+  border-radius: 8px;
+  border: none;
+  padding: 0.8em 1.5em;
+  font-size: 1rem;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #8b5cf6;
+  color: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  background-color: #7c3aed;
+}
+
+.message {
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 12px;
+  margin-top: 1rem;
+  word-wrap: break-word;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.hidden {
+  display: none;
+}
+
+/* Light theme is now the default */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: #1a1a1a;
+    background-color: #ffffff;
+  }
+  input {
+    background-color: white;
+    color: #1a1a1a;
+  }
+  button {
+    background-color: #8b5cf6;
+    color: white;
+  }
+  .message {
+    background-color: white;
+    color: #1a1a1a;
+  }
+}

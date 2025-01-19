@@ -1,0 +1,2774 @@
+[
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/steven-green-b90a081a/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "sgreen2@uchicago.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "steven.green@lw.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Steven Green",
+      "first_name": "Steven",
+      "last_name": "Green",
+      "headline": "Partner at Goodwin",
+      "current_company": "Goodwin",
+      "current_company_position": "Partner"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/liangyi-benjamin-yin-24aa23125/",
+      "email": "benyyy1214@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Liangyi Yin",
+      "first_name": "Liangyi",
+      "last_name": "Yin",
+      "headline": "Software Engineer",
+      "current_company": "谷歌",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/heqing-huang-01baa181/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "hhuang@futuredial.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Heqing Huang",
+      "first_name": "Heqing",
+      "last_name": "Huang",
+      "headline": "Software Engineer at Apple",
+      "current_company": "Apple",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jake-lin8/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jlin12358@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "jlin@uoregon.edu",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Jacob Lin",
+      "first_name": "Jacob",
+      "last_name": "Lin",
+      "headline": "Software Engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/alister-maguire-0a075991/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "amaguire@uoregon.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Alister Maguire",
+      "first_name": "Alister",
+      "last_name": "Maguire",
+      "headline": "Computer Scientist at Lawrence Livermore National Laboratory",
+      "current_company": "Lawrence Livermore National Laboratory",
+      "current_company_position": "Computer Scientist"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/john-masyczek-36596873/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "masyczekj@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "John Masyczek",
+      "first_name": "John",
+      "last_name": "Masyczek",
+      "headline": "\"Laboratory Analyst | Chemical Analysis",
+      "current_company": "Analytical Skills\"",
+      "current_company_position": "ETS Laboratories"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/cole-severson-012482102/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "cole.severson@digimarc.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "cseverson@digimarc.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Cole Severson",
+      "first_name": "Cole",
+      "last_name": "Severson",
+      "headline": "Microsoft SWE 2",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jkerivan/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "james_kerivan@syntelinc.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "jameskerivan@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "James Kerivan",
+      "first_name": "James",
+      "last_name": "Kerivan",
+      "headline": "Software Engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/ethartman/",
+      "email": "edwardhartman81@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Edward Hartman",
+      "first_name": "Edward",
+      "last_name": "Hartman",
+      "headline": "Owner",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/adi-mehta/",
+      "email": "adimehta3@outlook.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Adi Mehta",
+      "first_name": "Adi",
+      "last_name": "Mehta",
+      "headline": "Product Analytics at PlayStation",
+      "current_company": "PlayStation",
+      "current_company_position": "Product Analytics"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/andrewwarren01/",
+      "email": "awarren@uoregon.edu",
+      "email_type": "business",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Andrew Warren",
+      "first_name": "Andrew",
+      "last_name": "Warren",
+      "headline": "Equity Research Associate",
+      "current_company": "D.A Davidson",
+      "current_company_position": "Research Associate"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/austinmcdowell1993/",
+      "email": "amcdowelldionisi@apple.com",
+      "email_type": "business",
+      "third_party_email_1": "austin.mcdowell@sandisk.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Austin McDowell",
+      "first_name": "Austin",
+      "last_name": "McDowell",
+      "headline": "Technical Recruiter at Apple",
+      "current_company": "Apple",
+      "current_company_position": "Technical Recruiter"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/bob-brothers-5719547/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "brothersbob@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Bob Brothers",
+      "first_name": "Bob",
+      "last_name": "Brothers",
+      "headline": "Director of Development",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/ehrenkranz/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "ehrenkranz@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Toby Ehrenkranz",
+      "first_name": "Toby",
+      "last_name": "Ehrenkranz",
+      "headline": "Building something new",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/autumn-davis-8b428912/",
+      "email": "autumnleaves1120@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "aralls@hotmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "autumn.davis@providence.org",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Autumn Davis",
+      "first_name": "Autumn",
+      "last_name": "Davis",
+      "headline": "Passionate about creating equity in the workplace!",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/whitneyhaskin/",
+      "email": "whit@almanaccreative.com",
+      "email_type": "business",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Whitney Haskin",
+      "first_name": "Whitney",
+      "last_name": "Haskin",
+      "headline": "Director of Strategic Partnerships at Festival Napa Valley",
+      "current_company": "Festival Napa Valley",
+      "current_company_position": "Director of Strategic Partnerships"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/ray-veillet-b844a59/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "ray.veillet@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Ray Veillet",
+      "first_name": "Ray",
+      "last_name": "Veillet",
+      "headline": "Chief Operating Officer at Breakside Brewery",
+      "current_company": "Breakside Brewery",
+      "current_company_position": "Chief Operating Officer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jack-scanland/",
+      "email": "jackscanland@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jack Scanland",
+      "first_name": "Jack",
+      "last_name": "Scanland",
+      "headline": "Marketing Coordinator at Carahsoft",
+      "current_company": "Carahsoft",
+      "current_company_position": "Marketing Coordinator"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jason-borrevik/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jborrevik@compensia.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jason B.",
+      "first_name": "Jason",
+      "last_name": "B.",
+      "headline": "Principal at Compensia",
+      "current_company": "Compensia",
+      "current_company_position": "Principal"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jed-clinger-8a209ba3/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jed.clinger@buildingenergy.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "jed.clinger@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Jed Clinger",
+      "first_name": "Jed",
+      "last_name": "Clinger",
+      "headline": "Senior Software Engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/reza-motamedi-61911138/",
+      "email": "reza.motamedi@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "motamedi@cs.uoregon.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "reza.motamedi@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "rezamotamedi@gmail.com",
+      "full_name": "Reza Motamedi",
+      "first_name": "Reza",
+      "last_name": "Motamedi",
+      "headline": "Staff SWE at Twitter",
+      "current_company": "Twitter",
+      "current_company_position": "Staff SWE"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/tom-mulkey-73b70348/",
+      "email": "tmulkey@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "tmulkey@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "tmulkey@hillsboroaviation.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Tom Mulkey",
+      "first_name": "Tom",
+      "last_name": "Mulkey",
+      "headline": "\"Operations Manager at Hillsboro Aviation",
+      "current_company": "Inc.\"",
+      "current_company_position": "Hillsboro Aviation"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/tonywyant/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "twyant@gigsky.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "tony.wyant@sbcglobal.net",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Tony Wyant",
+      "first_name": "Tony",
+      "last_name": "Wyant",
+      "headline": "Consultant",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/hcampbell1228/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "haley@schirmersatre.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "hcampbell@springfield-or.gov",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Haley Campbell",
+      "first_name": "Haley",
+      "last_name": "Campbell",
+      "headline": "Senior Planner at the City of Springfield",
+      "current_company": "the City of Springfield",
+      "current_company_position": "Senior Planner"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/lucyakelly/",
+      "email": "lucyakelly2002@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "lkelly@beaducation.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Lucy Kelly",
+      "first_name": "Lucy",
+      "last_name": "Kelly",
+      "headline": "B.S. Business Administration ‘24 | creative problem solver | development driven | people first",
+      "current_company": "Oregon Consulting Group",
+      "current_company_position": "Consultant"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/lucas-hyatt-32a609173/",
+      "email": "llhyatt98@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Lucas Hyatt",
+      "first_name": "Lucas",
+      "last_name": "Hyatt",
+      "headline": "Full Stack Software Engineer",
+      "current_company": "Nightery",
+      "current_company_position": "Full Stack Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/casey-chesshir-6a48b183/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "casey.chesshir@yahoo.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Casey Chesshir",
+      "first_name": "Casey",
+      "last_name": "Chesshir",
+      "headline": "Software Engineer at Thermo Fisher Scientific",
+      "current_company": "Thermo Fisher Scientific",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/noah-solis-8aa387199/",
+      "email": "noah122502@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Noah Solis",
+      "first_name": "Noah",
+      "last_name": "Solis",
+      "headline": "B.S. Business '25 | Marketing Student | University of Oregon - Lundquist College of Business",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/anna-hooper8/",
+      "email": "abhooper42@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Anna Hooper",
+      "first_name": "Anna",
+      "last_name": "Hooper",
+      "headline": "Economics and Finance Double Major at the University of Oregon | Director of Finance UO Women in Economics",
+      "current_company": "the University of Oregon",
+      "current_company_position": "Economics and Finance Double Major"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/zimingg/",
+      "email": "ziminggguo@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Ziming Guo",
+      "first_name": "Ziming",
+      "last_name": "Guo",
+      "headline": "Software Engineer at Microsoft | Ex-DocuSign",
+      "current_company": "Microsoft",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/zhiyiwu/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "cassiopeiabok@hotmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "privaterbok@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "zhiyi.wu@spirent.com",
+      "full_name": "Zhiyi Wu",
+      "first_name": "Zhiyi",
+      "last_name": "Wu",
+      "headline": "Senior Software Engineer at TikTok/Bytedance",
+      "current_company": "TikTok",
+      "current_company_position": "Senior Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/aaron-duchateau-a0029362/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "aaron@paloalto.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "aaron@pivot2dream.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "chateauconcept@gmail.com",
+      "full_name": "Aaron Duchateau",
+      "first_name": "Aaron",
+      "last_name": "Duchateau",
+      "headline": "Software Guy",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jennifer-welander-2492839b/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jrwelander@stcharleshealthcare.org",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "jwelander@stcharleshealthcare.org",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Jennifer Welander",
+      "first_name": "Jennifer",
+      "last_name": "Welander",
+      "headline": "CPA and Finance Professional",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/dante-caiazza-64417b257/",
+      "email": "dmcaiazza@icloud.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Dante Caiazza",
+      "first_name": "Dante",
+      "last_name": "Caiazza",
+      "headline": "Student at University of Oregon",
+      "current_company": "University of Oregon",
+      "current_company_position": "Student"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/andrewphillippi/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "andrephi@amazon.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Andrew Phillippi",
+      "first_name": "Andrew",
+      "last_name": "Phillippi",
+      "headline": "Senior Software Engineer",
+      "current_company": "Blink Health",
+      "current_company_position": "Engineering Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jiang-ray-conghao/",
+      "email": "rinsomnia@hotmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "rinsomnia@hotmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jiang Conghao",
+      "first_name": "Jiang",
+      "last_name": "Conghao",
+      "headline": "Senior Software Test Engineer at Google",
+      "current_company": "Google",
+      "current_company_position": "Senior Software Test Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/hooman-mostafavi/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "hooman_mostafavi@yahoo.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Hooman Mostafavi",
+      "first_name": "Hooman",
+      "last_name": "Mostafavi",
+      "headline": "Senior Software Engineer at Capital One",
+      "current_company": "Capital One",
+      "current_company_position": "Senior Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/yangshu/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "eagle21st@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "yangs@punchtab.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Yang Shu",
+      "first_name": "Yang",
+      "last_name": "Shu",
+      "headline": "Software Engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/anudeodhar/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "da@zendesk.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Anu Deodhar",
+      "first_name": "Anu",
+      "last_name": "Deodhar",
+      "headline": "Senior Software Engineer at Zendesk",
+      "current_company": "Zendesk",
+      "current_company_position": "Senior Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/yvonnexiaoxiao/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "yvonne@apple.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "yvonexiaoxiao@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Yvonne Xiao",
+      "first_name": "Yvonne",
+      "last_name": "Xiao",
+      "headline": "Software engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/karlirenken/",
+      "email": "renken.karli@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Karli Renken",
+      "first_name": "Karli",
+      "last_name": "Renken",
+      "headline": "Project Manager with a knack for connection and creativity",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/seanmsiegrist/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "sean@vilcap.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Sean Siegrist",
+      "first_name": "Sean",
+      "last_name": "Siegrist",
+      "headline": "Project Lead | Ambition Accelerator | Taco Bell",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/samuel-aronoff-6951831b6/",
+      "email": "sammyaronoffwhat@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Samuel Aronoff",
+      "first_name": "Samuel",
+      "last_name": "Aronoff",
+      "headline": "Student at University of Oregon - President of Alpha Sigma Phi Theta Theta chapter - CoFounder of Frats Against Food Waste - Freelance Journalist",
+      "current_company": "University of Oregon",
+      "current_company_position": "Student"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/john-lucas-85599a29/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "lucasj@canisius.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "lucasjc10@yahoo.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "John Lucas",
+      "first_name": "John",
+      "last_name": "Lucas",
+      "headline": "Director of Business Operations",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/ericaengstrom/",
+      "email": "ericaengstrom13@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "ericaengstrom13@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "tammyengstrom@hotmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Erica Poirier",
+      "first_name": "Erica",
+      "last_name": "Poirier",
+      "headline": "Program Manager at Facebook",
+      "current_company": "Facebook",
+      "current_company_position": "Program Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/tobey-ritchie-2b1057b/",
+      "email": "tobeyritchie@yahoo.com",
+      "email_type": "personal",
+      "third_party_email_1": "tobeyr@harryritchies.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "tobeyritchie@yahoo.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Tobey Ritchie",
+      "first_name": "Tobey",
+      "last_name": "Ritchie",
+      "headline": "Executive Vice President at Harry Ritchie's Jewelers",
+      "current_company": "Harry Ritchie's Jewelers",
+      "current_company_position": "Executive Vice President"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/ryan-hamidi/",
+      "email": "ryanhamidi2011@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Ryan Hamidi",
+      "first_name": "Ryan",
+      "last_name": "Hamidi",
+      "headline": "\"BS Finance at University of Oregon",
+      "current_company": "Lundquist College of Business Honors\"",
+      "current_company_position": "University of Oregon"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/colinlassiter/",
+      "email": "colin.s.lassiter@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "colin.lassiter@oracle.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "colin.s.lassiter@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Colin Lassiter",
+      "first_name": "Colin",
+      "last_name": "Lassiter",
+      "headline": "Chief of Staff",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/dfountain777/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "dfountain777@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "dfountain@medicalteams.org",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Douglas Fountain",
+      "first_name": "Douglas",
+      "last_name": "Fountain",
+      "headline": "Executive Director at Christian Connections for International Health",
+      "current_company": "Christian Connections for International Health",
+      "current_company_position": "Executive Director"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/nathanheller/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "k.heller1@att.net",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "naheller@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "nheller@uoregon.edu",
+      "full_name": "Nathan Heller",
+      "first_name": "Nathan",
+      "last_name": "Heller",
+      "headline": "Senior Software Engineer at Alloy",
+      "current_company": "Alloy",
+      "current_company_position": "Senior Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/bharath-kumar-36b70336/",
+      "email": "bharathkmr.nb@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "bharath.kumar@mediatek.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "bharathkmr.nb@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Bharath Nachenahalli Bhuthegowda",
+      "first_name": "Bharath",
+      "last_name": "Nachenahalli Bhuthegowda",
+      "headline": "Software Engineer at NetApp",
+      "current_company": "NetApp",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jwrightpdx/",
+      "email": "jwrightpdx@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "jwright@lrsarchitects.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jennifer Wright",
+      "first_name": "Jennifer",
+      "last_name": "Wright",
+      "headline": "Architect | AIA National Small Firms Exchange (SFx) state representative | founder @ studio RALLYMADE",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/shelby-dunlap-44363484/",
+      "email": "shelbyjoydunlap@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Shelby Dunlap",
+      "first_name": "Shelby",
+      "last_name": "Dunlap",
+      "headline": "Senior Program Manager",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/annikahuston/",
+      "email": "annikahuston02@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Annika Huston",
+      "first_name": "Annika",
+      "last_name": "Huston",
+      "headline": "Honors Computer Science + Business Analytics Student @ University of Oregon | Undergraduate ML Researcher at Oregon Networking Research Group | Strat Consultant at Oregon Consulting Group | CTO at AI Student Association",
+      "current_company": "AI Student Association",
+      "current_company_position": "Honors Computer Science + Business Analytics Student @ University of Oregon | Undergraduate ML Researcher at Oregon Networking Research Group | Strat Consultant at Oregon Consulting Group | CTO"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/mackhagen/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "mackhagen@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Mack Hagen",
+      "first_name": "Mack",
+      "last_name": "Hagen",
+      "headline": "Software Engineer at Meta",
+      "current_company": "Meta",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/charliepaull211/",
+      "email": "charliepaull211@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "charles.paull@cetera.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Charles Paull",
+      "first_name": "Charles",
+      "last_name": "Paull",
+      "headline": "Seeking New Software Engineering Opportunities",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/trevor-bergstrom-373a0466/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "trevor.bergstrom@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Trevor Bergstrom",
+      "first_name": "Trevor",
+      "last_name": "Bergstrom",
+      "headline": "Computer Vision Software and Machine Learning Engineer",
+      "current_company": "Overwatch Imaging",
+      "current_company_position": "Computer Vision Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/coreylederer/",
+      "email": "cjlederer@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "corey@cjlederer.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Corey Lederer",
+      "first_name": "Corey",
+      "last_name": "Lederer",
+      "headline": "\"Chief Product Officer at Widney",
+      "current_company": "LLC\"",
+      "current_company_position": "Widney"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/gary-gatewood-92a1a17/",
+      "email": "garygatewood@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "garygatewood@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Gary Gatewood",
+      "first_name": "Gary",
+      "last_name": "Gatewood",
+      "headline": "President at The Dank Brothers",
+      "current_company": "The Dank Brothers",
+      "current_company_position": "President"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/sean-grady-962988a5/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "seagrady2@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Sean Grady",
+      "first_name": "Sean",
+      "last_name": "Grady",
+      "headline": "Software Engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/howielin1997/",
+      "email": "linnyflow@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "linnyflow@yahoo.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Howard Lin",
+      "first_name": "Howard",
+      "last_name": "Lin",
+      "headline": "Software Engineer at JP Morgan Chase",
+      "current_company": "JP Morgan Chase",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/alyssa-kelley-a4993111b/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "yourstruly.abk@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Alyssa Kelley",
+      "first_name": "Alyssa",
+      "last_name": "Kelley",
+      "headline": "Software Engineer",
+      "current_company": "Zywave",
+      "current_company_position": "Business Intelligence Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/stephanie-beeck-a3809014a/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "stephanie.beeck@pearlbuckcenter.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Stephanie Beeck",
+      "first_name": "Stephanie",
+      "last_name": "Beeck",
+      "headline": "Executive Director at Pearl Buck Center",
+      "current_company": "Pearl Buck Center",
+      "current_company_position": "Executive Director"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/colin-sweeney-55744b88/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "colinsweeney20@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "csweeney@ibm.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Colin Sweeney",
+      "first_name": "Colin",
+      "last_name": "Sweeney",
+      "headline": "Lead Software Engineer at The Walt Disney Company",
+      "current_company": "The Walt Disney",
+      "current_company_position": "Lead Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/cole-watson-559756a9/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "cole.j.watson@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "cole.watson@nike.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Cole Watson",
+      "first_name": "Cole",
+      "last_name": "Watson",
+      "headline": "Software Engineer at Nike",
+      "current_company": "Nike",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/alessandro-damore/",
+      "email": "alessandro.damore2@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Sacha D'Amore",
+      "first_name": "Sacha",
+      "last_name": "D'Amore",
+      "headline": "Founding member at Oregon Blockchain",
+      "current_company": "Oregon Blockchain",
+      "current_company_position": "Founding member"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/ken-marquardt-19022a33/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "ken@ramjackor.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Ken Marquardt",
+      "first_name": "Ken",
+      "last_name": "Marquardt",
+      "headline": "Owner Ram Jack West",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/meganjohnson15/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "megan.johnson@ogilvypr.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "meganjohnson587@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "meggg93@yahoo.com",
+      "full_name": "Megan Johnson",
+      "first_name": "Megan",
+      "last_name": "Johnson",
+      "headline": "\"Director",
+      "current_company": "Business Development\"",
+      "current_company_position": "Edelman"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jennzarubin/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jzarubin@metlife.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jenn Zarubin",
+      "first_name": "Jenn",
+      "last_name": "Zarubin",
+      "headline": "Sports Business",
+      "current_company": "University of Oregon",
+      "current_company_position": "MBA Candidate"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/chelsealynngobel/",
+      "email": "chelgobel@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "chelgobel@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Chelsea Gobel",
+      "first_name": "Chelsea",
+      "last_name": "Gobel",
+      "headline": "Real Estate Manager",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/chris-johnson-6511b811/",
+      "email": "chris.johnson@colliers.com",
+      "email_type": "business",
+      "third_party_email_1": "chris.johnson@colliers.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "cjohnson@nbsrealtors.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "cjohnson@nbsrecapital.com",
+      "full_name": "Chris Johnson",
+      "first_name": "Chris",
+      "last_name": "Johnson",
+      "headline": "Executive Vice President at Colliers International",
+      "current_company": "Colliers International",
+      "current_company_position": "Executive Vice President"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/rachelharbison/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "rachel.harbison@addepar.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Rachel Harbison",
+      "first_name": "Rachel",
+      "last_name": "Harbison",
+      "headline": "Communications at Ripple",
+      "current_company": "Ripple",
+      "current_company_position": "Communications"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jack-seabolt/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jackjls@aol.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jack Seabolt",
+      "first_name": "Jack",
+      "last_name": "Seabolt",
+      "headline": "Staff Software Engineer",
+      "current_company": "Simplr",
+      "current_company_position": "Staff Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/mike-maloney52/",
+      "email": "mike.maloney52@live.com",
+      "email_type": "personal",
+      "third_party_email_1": "mike.maloney52@live.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "mike.maloney@smartreachdigital.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Mike Maloney",
+      "first_name": "Mike",
+      "last_name": "Maloney",
+      "headline": "Vice President Automotive at iHeart Media",
+      "current_company": "iHeart Media",
+      "current_company_position": "Vice President Automotive"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/gordonweiss/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "gordieweiss@hotmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "gordon@onebeat.tv",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "gordon@vesselsf.com",
+      "full_name": "Gordon Weiss",
+      "first_name": "Gordon",
+      "last_name": "Weiss",
+      "headline": "Strategies & Partnerships for Enhancing Quality of Life",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/craig-wanichek-b5833017/",
+      "email": "craig.wanichek@summitbankonline.com",
+      "email_type": "business",
+      "third_party_email_1": "craig@sbko.bank",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "craig.wanichek@summitbankonline.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Craig Wanichek",
+      "first_name": "Craig",
+      "last_name": "Wanichek",
+      "headline": "President and CEO",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/diana-panduro-a38b21233/",
+      "email": "dianita1171@hotmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Diana Panduro",
+      "first_name": "Diana",
+      "last_name": "Panduro",
+      "headline": "Property Manager",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/piotrek-buciarski-mba-oly-0a24a86/",
+      "email": "piotr@buciarski.com",
+      "email_type": "business",
+      "third_party_email_1": "piotr@buciarski.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "piotrek@buciarski.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "piotrek@gotracktownusa.com",
+      "full_name": "Piotrek Buciarski",
+      "first_name": "Piotrek",
+      "last_name": "Buciarski",
+      "headline": "\"Senior Vice President",
+      "current_company": "Commercial Banking Team Leader at Summit Bank\"",
+      "current_company_position": "Summit Bank"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/parsa-amiri-b18aa02a8/",
+      "email": "ultrapca@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Parsa Amiri",
+      "first_name": "Parsa",
+      "last_name": "Amiri",
+      "headline": "Economics @ UC Santa Cruz",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/travismace/",
+      "email": "travis@macefinancial.com",
+      "email_type": "business",
+      "third_party_email_1": "travis.mace@macefinancial.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Travis Mace",
+      "first_name": "Travis",
+      "last_name": "Mace",
+      "headline": "President at Mace Financial",
+      "current_company": "Mace Financial",
+      "current_company_position": "President"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/johnsonryan/",
+      "email": "ryanreacher@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "Ryan@ridgewine.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "ryan.johnson@kingestate.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "ryanreacher@gmail.com",
+      "full_name": "Ryan Johnson",
+      "first_name": "Ryan",
+      "last_name": "Johnson",
+      "headline": "Director of Marketing at Ridge Vineyards",
+      "current_company": "Ridge Vineyards",
+      "current_company_position": "Director of Marketing"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/maya-keskar/",
+      "email": "mkeskar@uoregon.edu",
+      "email_type": "business",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Maya Keskar",
+      "first_name": "Maya",
+      "last_name": "Keskar",
+      "headline": "Care Navigator at  AC Wellness Medical Group",
+      "current_company": "AC Wellness Medical Group",
+      "current_company_position": "Care Navigator"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/sammelwani/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "sam_melwani@yahoo.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Sam Csm",
+      "first_name": "Sam",
+      "last_name": "Csm",
+      "headline": "Global Strategic Sourcing Manager at Nutanix",
+      "current_company": "Nutanix",
+      "current_company_position": "Global Strategic Sourcing Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/paul-jarrell-8363b830/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "pejarrell@pasadena.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Paul Jarrell",
+      "first_name": "Paul",
+      "last_name": "Jarrell",
+      "headline": "President",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/kirstenhazard/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "khazard@cisco.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Kirsten Hazard",
+      "first_name": "Kirsten",
+      "last_name": "Hazard",
+      "headline": "Sales Operations Leader",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/sfrost/",
+      "email": "stephen_frost@sbcglobal.net",
+      "email_type": "personal",
+      "third_party_email_1": "frostman007@facebook.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "stephen.frost@otherocean.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "stephen.frost@sega.com",
+      "full_name": "Stephen Frost",
+      "first_name": "Stephen",
+      "last_name": "Frost",
+      "headline": "Head of Production at Digital Eclipse",
+      "current_company": "Digital Eclipse",
+      "current_company_position": "Head of Production"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/yunita-ngo-ab746b3b/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "yngo@uoregon.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "yunita_ngo@yahoo.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Yunita Ngo",
+      "first_name": "Yunita",
+      "last_name": "Ngo",
+      "headline": "Finance & Strategy",
+      "current_company": "Zendesk",
+      "current_company_position": "Finance and Strategy - G&A"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/brunson-moody/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "brunson@paloalto.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "brunson@cs.pdx.edu",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Brunson Moody",
+      "first_name": "Brunson",
+      "last_name": "Moody",
+      "headline": "Software Engineer at Kuali.co",
+      "current_company": "Kuali.co",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/nchaimov/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "nachaimov@lbl.gov",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "nchaimov@cs.uoregon.edu",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "nchaimov@gmail.com",
+      "full_name": "Nicholas Chaimov",
+      "first_name": "Nicholas",
+      "last_name": "Chaimov",
+      "headline": "HPC Computer Scientist",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/linshu-huang/",
+      "email": "linshuh@outlook.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Ls H",
+      "first_name": "Ls",
+      "last_name": "H",
+      "headline": "Software Engineer in General Software Engineer | Data Platform | Video Processing | Machine Learning",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/kaden-gibbs-597031299/",
+      "email": "kadengibbs.clinic@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Kaden Gibbs",
+      "first_name": "Kaden",
+      "last_name": "Gibbs",
+      "headline": "Commercial Real Estate Specialist - Degree in Finance and Marketing from the University of Oregon",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/gabenovack/",
+      "email": "gabenovack12@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Gabe Novack",
+      "first_name": "Gabe",
+      "last_name": "Novack",
+      "headline": "\"Finance",
+      "current_company": "Entrepreneurship",
+      "current_company_position": "and Economics Student at University of Oregon\""
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/kitt-hawkins-38321529/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "khawkins@agruamerica.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "kitth@northwestlinings.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Kitt Hawkins",
+      "first_name": "Kitt",
+      "last_name": "Hawkins",
+      "headline": "Business Development",
+      "current_company": "Northwest Linings",
+      "current_company_position": "Back with a new roll"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/derek-tran-208966259/",
+      "email": "dttran04@icloud.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Derek Tran",
+      "first_name": "Derek",
+      "last_name": "Tran",
+      "headline": "Economic Major with BA Minor | University of Oregon",
+      "current_company": "University of Oregon",
+      "current_company_position": "Undergraduate student"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/christopher-phan-2a974132/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "chris.phan@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "cphan@winona.edu",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "pchristopher@winona.edu",
+      "full_name": "Christopher Phan",
+      "first_name": "Christopher",
+      "last_name": "Phan",
+      "headline": "Seeking a career transition to a data-based position that would allow me to grow professionally and develop new skills.",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/tayyab-bin-tahir/",
+      "email": "tayyabbintahir01@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "ranatayyab.473@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Tayyab Tahir",
+      "first_name": "Tayyab",
+      "last_name": "Tahir",
+      "headline": "Software Engineer @ Siemens | Infrastructures | APIs | Gen AI | Machine Learning | x McKinsey & Company",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/dstevens18/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "david.stevens@webfilings.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "dstevens18@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "dstevens@concentricsky.com",
+      "full_name": "David Stevens",
+      "first_name": "David",
+      "last_name": "Stevens",
+      "headline": "Software Engineer at Meta",
+      "current_company": "Meta",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/elipearson1/",
+      "email": "epearso2@uoregon.edu",
+      "email_type": "business",
+      "third_party_email_1": "eli@litprotocol.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Eli Pearson",
+      "first_name": "Eli",
+      "last_name": "Pearson",
+      "headline": "Chief of Staff at Lit Protocol",
+      "current_company": "Lit Protocol",
+      "current_company_position": "Chief of Staff"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/allie-mendelson-ccwp-10481aa3/",
+      "email": "allieraemendelson@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "allie.mendelson@insightglobal.net",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Allie Mendelson",
+      "first_name": "Allie",
+      "last_name": "Mendelson",
+      "headline": "Senior Human Resources Professional | Expert in Contingent Workforce Management",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/dgilman11/",
+      "email": "dane.gilman@exprealty.com",
+      "email_type": "business",
+      "third_party_email_1": "dgilman@uoregon.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Dane Gilman",
+      "first_name": "Dane",
+      "last_name": "Gilman",
+      "headline": "VP of Sales",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jasonhigbee/",
+      "email": "jrhigbee@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "jrhigbee@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jason Higbee",
+      "first_name": "Jason",
+      "last_name": "Higbee",
+      "headline": "Systems Innovation",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/william-pettit-57750713/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "billp@merrillgardens.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "William Pettit",
+      "first_name": "William",
+      "last_name": "Pettit",
+      "headline": "Partner Black Dog Capital Advisors",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/julie-brown-baa731/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "dwntnjuliebrown@yahoo.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Julie Brown",
+      "first_name": "Julie",
+      "last_name": "Brown",
+      "headline": "Communicator and Ignitor of ideas to help others",
+      "current_company": "Bend Metro Park & Recreation",
+      "current_company_position": "Communications and Community Relations Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/emilywuib/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "emily.wu@goldmansachs.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "emily.wu@gs.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Emi Wu",
+      "first_name": "Emi",
+      "last_name": "Wu",
+      "headline": "Software Engineer at Reddit",
+      "current_company": "Reddit",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/dhru-patel-6392011b4/",
+      "email": "dhrupat3l@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Dhru Patel",
+      "first_name": "Dhru",
+      "last_name": "Patel",
+      "headline": "Audit Associate at PwC",
+      "current_company": "PwC",
+      "current_company_position": "Audit Associate"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/yasmeenaltaha/",
+      "email": "yaltaha29@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Yasmeen Hampton",
+      "first_name": "Yasmeen",
+      "last_name": "Hampton",
+      "headline": "Project Management at Juniper Square",
+      "current_company": "Juniper Square",
+      "current_company_position": "Project Management"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/chris-bowers-4158a369/",
+      "email": "chris@emeraldsbaseball.com",
+      "email_type": "business",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Chris Bowers",
+      "first_name": "Chris",
+      "last_name": "Bowers",
+      "headline": "Assistant General Manager at Eugene Emeralds Professional Baseball Club",
+      "current_company": "Eugene Emeralds Professional Baseball Club",
+      "current_company_position": "Assistant General Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/simoneckel/",
+      "email": "seckel@uoregon.edu",
+      "email_type": "business",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Simon Eckel",
+      "first_name": "Simon",
+      "last_name": "Eckel",
+      "headline": "Marketing and Communications Specialist",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/marshaun-tucker-0567205a/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "marshaun_tucker@symantec.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Marshaun Tucker",
+      "first_name": "Marshaun",
+      "last_name": "Tucker",
+      "headline": "Recruiter at Fortinet",
+      "current_company": "Fortinet",
+      "current_company_position": "Recruiter"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/scott-smith-2ba7/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "scottyl@concentric.net",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Scott Smith",
+      "first_name": "Scott",
+      "last_name": "Smith",
+      "headline": "Experienced Marketing and Branding Executive",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/christopher-kiyota-570b5018a/",
+      "email": "cykiyota@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Christopher Kiyota",
+      "first_name": "Christopher",
+      "last_name": "Kiyota",
+      "headline": "\"Founder",
+      "current_company": "Nozu Eugene\"",
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/matthewcbowen/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "matthew.bowen@rafter.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "mbowen@rafter.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "neewob@gmail.com",
+      "full_name": "Matthew Bowen",
+      "first_name": "Matthew",
+      "last_name": "Bowen",
+      "headline": "Software Engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/rick-mcclain-6150794/",
+      "email": "rmcclain@mecnorthwest.com",
+      "email_type": "business",
+      "third_party_email_1": "rick_mcclain@milwaukeeelectronics.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "rmcclain@mecnorthwest.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "rmcclain@milwaukeeelectronics.com",
+      "full_name": "Rick McClain",
+      "first_name": "Rick",
+      "last_name": "McClain",
+      "headline": "President and Chief Operating Officer at Milwaukee Electronics",
+      "current_company": "Milwaukee Electronics",
+      "current_company_position": "President and Chief Operating Officer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/feltzin/",
+      "email": "dfeltzin@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "dfeltzin@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "dfeltzin@solterra.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Danya Feltzin",
+      "first_name": "Danya",
+      "last_name": "Feltzin",
+      "headline": "EVP at Solterra",
+      "current_company": "Solterra",
+      "current_company_position": "EVP"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/aaron-de-ocampo-a2238a128/",
+      "email": "aaronjdeocampo@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Aaron Ocampo",
+      "first_name": "Aaron",
+      "last_name": "Ocampo",
+      "headline": "Brand Content Production Manager at UserTesting",
+      "current_company": "UserTesting",
+      "current_company_position": "Brand Content Production Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/williammahar/",
+      "email": "willmahar12@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "William Mahar",
+      "first_name": "William",
+      "last_name": "Mahar",
+      "headline": "Senior Acquisitions Analyst at Prime Group",
+      "current_company": "Prime Group",
+      "current_company_position": "Senior Acquisitions Analyst"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/gary-carman-02a00ab2/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "gary@checkerboardvineyards.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Gary Carman",
+      "first_name": "Gary",
+      "last_name": "Carman",
+      "headline": "Director Of Hospitality",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/njlillegard/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "nathan.lillegard@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "nathan@floragenex.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Nathan Lillegard",
+      "first_name": "Nathan",
+      "last_name": "Lillegard",
+      "headline": "Teaching the next generation of business leaders. Advising visionary founders with grounded advice.",
+      "current_company": "Ferry Angle",
+      "current_company_position": "Principal"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/parsabee/",
+      "email": "parsabagheri2013@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Parsa Bagheri",
+      "first_name": "Parsa",
+      "last_name": "Bagheri",
+      "headline": "Senior Software Engineer. compilers | system software",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/solomon-sliwinski-7625971b1/",
+      "email": "solsliwinski@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Solomon Sliwinski",
+      "first_name": "Solomon",
+      "last_name": "Sliwinski",
+      "headline": "Principal Engineer at Insomniac Games",
+      "current_company": "Insomniac Games",
+      "current_company_position": "Principal Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/john-mcconnell-0b87522b/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "john.mcconnell@datalogic.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "John McConnell",
+      "first_name": "John",
+      "last_name": "McConnell",
+      "headline": "\"Sr. Manager",
+      "current_company": "Software Engineering\"",
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/rob-arkes-b74a1a2/",
+      "email": "rob.arkes@sage.com",
+      "email_type": "business",
+      "third_party_email_1": "rob.arkes@sage.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Rob Arkes",
+      "first_name": "Rob",
+      "last_name": "Arkes",
+      "headline": "Marketing Manager at Sage Software",
+      "current_company": "Sage Software",
+      "current_company_position": "Marketing Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/kali-gibson-99113aa9/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "kali.gibson@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Kali Gibson",
+      "first_name": "Kali",
+      "last_name": "Gibson",
+      "headline": "Senior Brand Manager at Fireclay Tile",
+      "current_company": "Fireclay Tile",
+      "current_company_position": "Senior Brand Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/cliff-degroot-97b08220/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "clifforddegroot@dwt.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Cliff Degroot",
+      "first_name": "Cliff",
+      "last_name": "Degroot",
+      "headline": "Corporate Partner at Holland & Knight LLP",
+      "current_company": "Holland & Knight",
+      "current_company_position": "Corporate Partner"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/dr-coby-hanes-dc-ifmcp-2b924a20/",
+      "email": "dochanes@center4wellness.com",
+      "email_type": "business",
+      "third_party_email_1": "dochanes@center4wellness.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Coby Hanes",
+      "first_name": "Coby",
+      "last_name": "Hanes",
+      "headline": "Doctor/Owner at The Center For Functional Medicine",
+      "current_company": "The Center For Functional Medicine",
+      "current_company_position": "Doctor/Owner"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/muellerkurt/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "kmueller@concentricsky.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "kurt@line909.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Kurt Mueller",
+      "first_name": "Kurt",
+      "last_name": "Mueller",
+      "headline": "\"Senior Software Engineer",
+      "current_company": "Mobile\"",
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/nate-wolfe-82a34614/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "a1979shakedown@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "haiverov@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "natewhatever@gmail.com",
+      "full_name": "Nate Wolfe",
+      "first_name": "Nate",
+      "last_name": "Wolfe",
+      "headline": "Principal Software Engineer at Puppet",
+      "current_company": "Puppet",
+      "current_company_position": "Principal Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jmkranz/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "b0dhi2000@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "fusionpainting@gmail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "jasonk@localnet.com",
+      "full_name": "Jason Kranz",
+      "first_name": "Jason",
+      "last_name": "Kranz",
+      "headline": "Software Development Manager III at Amazon",
+      "current_company": "Amazon",
+      "current_company_position": "Software Development Manager III"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/eric-wick-983a4b14/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "e.wick@tag-inc.us",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "ewick@tag-inc.us",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Eric Wick",
+      "first_name": "Eric",
+      "last_name": "Wick",
+      "headline": "Doer of things",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/robertbpotter/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "robertbrucepotter@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Robert Potter",
+      "first_name": "Robert",
+      "last_name": "Potter",
+      "headline": "\"Game Programmer",
+      "current_company": "C++ C# Core Tech and Online\"",
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/scottherz/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "bentwookie@mac.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "sherz@apple.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Scott Herz",
+      "first_name": "Scott",
+      "last_name": "Herz",
+      "headline": "at Apple",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jack-edwards-2b7aa013/",
+      "email": "jack.edwards@comcast.net",
+      "email_type": "personal",
+      "third_party_email_1": "butano20@aol.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "jack.edwards@comcast.net",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "jacke@yesler.com",
+      "full_name": "Jack Edwards",
+      "first_name": "Jack",
+      "last_name": "Edwards",
+      "headline": "Strategic Advisor at Magtec.",
+      "current_company": "Magtec.",
+      "current_company_position": "Strategic Advisor"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/angiehatfield/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "angelahatfield@comcast.net",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "angie.hatfield@hughescom.net",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Angie Hatfield",
+      "first_name": "Angie",
+      "last_name": "Hatfield",
+      "headline": "Public Relations Strategist and Content Developer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/chriskukula/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "barrykukula@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Chris Kukula",
+      "first_name": "Chris",
+      "last_name": "Kukula",
+      "headline": "\"Planning and Design Director",
+      "current_company": "Rogue Community Health\"",
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/colin-ives-846b1a25/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "cives@uoregon.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "ives@uoregon.edu",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Colin Ives",
+      "first_name": "Colin",
+      "last_name": "Ives",
+      "headline": "Director of Art and Technology Program at University of Oregon",
+      "current_company": "University of Oregon",
+      "current_company_position": "Director of Art and Technology Program"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jessie-esteban-80a76162/",
+      "email": "jesteban296@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "jessie@yelp.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jessie Esteban",
+      "first_name": "Jessie",
+      "last_name": "Esteban",
+      "headline": "\"Senior Manager",
+      "current_company": "Global Event Marketing\"",
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/vmorsesales/",
+      "email": "vmorse3@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "vmorse3@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "vmorse@aol.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": "vmorse@morsesportsagency.com",
+      "full_name": "Vincent Morse",
+      "first_name": "Vincent",
+      "last_name": "Morse",
+      "headline": "Sales and Business Development Specialist",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/haydenridenour/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "haydenr@pacbell.net",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "hridenour@mail.com",
+      "third_party_email_type_2": "personal",
+      "third_party_email_3": null,
+      "full_name": "Hayden Ridenour",
+      "first_name": "Hayden",
+      "last_name": "Ridenour",
+      "headline": "Father at Home",
+      "current_company": "Home",
+      "current_company_position": "Father"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/xuecc/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "xueqingc@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Xue Chen",
+      "first_name": "Xue",
+      "last_name": "Chen",
+      "headline": "Senior Software Engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/hannahlime/",
+      "email": "hannahlsteinkamp@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Hannah Steinkamp",
+      "first_name": "Hannah",
+      "last_name": "Steinkamp",
+      "headline": "Marketing Consultant",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/kaylacullivan/",
+      "email": "kayla.cullivan@yahoo.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Kayla Cullivan",
+      "first_name": "Kayla",
+      "last_name": "Cullivan",
+      "headline": "Sales Dev Leader @ Okta",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/emilypatricialoo/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "eloo@apple.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Emily Loo",
+      "first_name": "Emily",
+      "last_name": "Loo",
+      "headline": "Manager at Apple",
+      "current_company": "Apple",
+      "current_company_position": "Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/haley-kellogg-a5278983/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "hkellogg@gravitypayments.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Haley Kellogg",
+      "first_name": "Haley",
+      "last_name": "Kellogg",
+      "headline": "Casting Associate",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jennysanchezo/",
+      "email": "jennyssanchez24@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jenny F.",
+      "first_name": "Jenny",
+      "last_name": "F.",
+      "headline": "Communication Strategy | Brand & Marketing | Sports Production | Talent Acquisition",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/markstrickler/",
+      "email": "mark.strickler.new@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "mark.strickler.new@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Mark Strickler",
+      "first_name": "Mark",
+      "last_name": "Strickler",
+      "headline": "Strategic Marketing and Advertising Leader",
+      "current_company": "Hazelden Betty Ford Foundation",
+      "current_company_position": "Marketing Manager"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/aleksandr-stevens-779631204/",
+      "email": "aleks.stevens@protonmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Aleksandr Stevens",
+      "first_name": "Aleksandr",
+      "last_name": "Stevens",
+      "headline": "SWE @ Pinterest",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/owen-beedle/",
+      "email": "beedleowen@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Owen Beedle",
+      "first_name": "Owen",
+      "last_name": "Beedle",
+      "headline": "Business and CS Student at UO",
+      "current_company": "UO",
+      "current_company_position": "Business and CS Student"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/cuinn-huber/",
+      "email": "cuinn228@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": null,
+      "third_party_email_type_1": null,
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Cuinn Huber",
+      "first_name": "Cuinn",
+      "last_name": "Huber",
+      "headline": "\"Journalism Student",
+      "current_company": "University of Oregon\"",
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/nwpointer/",
+      "email": "nwpointer@gmail.com",
+      "email_type": "personal",
+      "third_party_email_1": "itisrudetopoint@gmail.com",
+      "third_party_email_type_1": "personal",
+      "third_party_email_2": "npointer@cbtnuggets.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": "nwpointer@gmail.com",
+      "full_name": "Nathan Pointer",
+      "first_name": "Nathan",
+      "last_name": "Pointer",
+      "headline": "Technical Lead at K Health",
+      "current_company": "K Health",
+      "current_company_position": "Technical Lead"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jimmyche/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jimmy.cheung@intel.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jimmy Cheung",
+      "first_name": "Jimmy",
+      "last_name": "Cheung",
+      "headline": "Software Engineer at Intel Corporation",
+      "current_company": "Intel",
+      "current_company_position": "Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/terramcgowan11/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "tmcgowan@uoregon.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Terra McGowan",
+      "first_name": "Terra",
+      "last_name": "McGowan",
+      "headline": "Former Student-Athlete & Graduate @ The University of Oregon",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/joe-mohr-85a12898/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jmohr@pipeworks.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "jmohr@uoregon.edu",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Joe Mohr",
+      "first_name": "Joe",
+      "last_name": "Mohr",
+      "headline": "Software Engineer",
+      "current_company": null,
+      "current_company_position": null
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jared-goddard-7a9aa38b/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jgoddard@uoregon.edu",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": null,
+      "third_party_email_type_2": null,
+      "third_party_email_3": null,
+      "full_name": "Jared Goddard",
+      "first_name": "Jared",
+      "last_name": "Goddard",
+      "headline": "Lead Software Engineer at New Relic",
+      "current_company": "New Relic",
+      "current_company_position": "Lead Software Engineer"
+    }
+  },
+  {
+    "data": {
+      "profile_url": "https://www.linkedin.com/in/jacob-miller-vasquez-32931510a/",
+      "email": null,
+      "email_type": null,
+      "third_party_email_1": "jacob.miller-vasquez@jobspringpartners.com",
+      "third_party_email_type_1": "business",
+      "third_party_email_2": "jmiller-vasquez@endpointclinical.com",
+      "third_party_email_type_2": "business",
+      "third_party_email_3": null,
+      "full_name": "Jacob Miller-Vasquez",
+      "first_name": "Jacob",
+      "last_name": "Miller-Vasquez",
+      "headline": "Technical Recruiter",
+      "current_company": null,
+      "current_company_position": null
+    }
+  }
+]
