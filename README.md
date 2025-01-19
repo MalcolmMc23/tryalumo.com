@@ -32,9 +32,18 @@ Frameworks Utilized:
 
 -Circle.so: Hosts the community platform, ensuring a seamless user experience.
 
--Bolt.new: Powers our AI search functionalities and backend systems.
+-Bolt.new: Powers our AI search functionalities and backend
+systems.
 
 Dependencies:
 -OpenAI
 -Marked
 -Linkd-helper
+
+<img width="1470" alt="tryalumo" src="https://github.com/user-attachments/assets/235006ef-7f72-4d30-8d52-e6ded2e237b4" />
+
+<img width="1470" alt="community" src="https://github.com/user-attachments/assets/88721c77-f4c0-4a3a-8f73-d125938577b8" />
+
+<img width="1470" alt="AiSearch" src="https://github.com/user-attachments/assets/afd4696b-ac72-45ff-9eaa-702b52f79bce" />
+
+
