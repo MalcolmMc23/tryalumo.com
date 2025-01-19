@@ -6,9 +6,9 @@ Website:
 
 -When you're ready to join, click the Get Started button or scroll to the bottom of the page.
 
--Select a payment plan (don’t worry—you’ll use a discount code for free access!).
+-Select a payment plan (don't worry—you'll use a discount code for free access!).
 
--You’ll be redirected to our community page where you will create an account and, during checkout, use the code "Ducks" for 100% off.
+-You'll be redirected to our community page where you will create an account and, during checkout, use the code "Ducks" for 100% off.
 
 Community:
 -Once logged in, familiarize yourself with the platform.
@@ -37,3 +37,4 @@ Frameworks Utilized:
 Dependencies:
 -OpenAI
 -Marked
+-Linkd-helper
