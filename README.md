@@ -1,3 +1,16 @@
+🎓 Alumo - Connect with Alumni Effortlessly
+
+Alumo helps students connect with alumni based on where they work and what they do, making networking and mentorship easier than ever.
+
+🚀 Winner of QuackHack 2025!
+
+📌 Features
+	•	🔍 Search by Company & Role – Find alumni based on their workplace and job title.
+	•	📬 Verified Alumni Emails – Get direct contact information.
+	•	🔗 Seamless User Experience – Clean UI with fast search results.
+	•	💳 Stripe Integration – Secure payments for premium access.
+
+
 # tryalumo.com
 
 Instructions for use:
