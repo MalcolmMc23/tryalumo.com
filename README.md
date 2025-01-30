@@ -1,4 +1,4 @@
-🎓 Alumo - Connect with Alumni Effortlessly
+# 🎓 Alumo - Connect with Alumni Effortlessly
 
 Alumo helps students connect with alumni based on where they work and what they do, making networking and mentorship easier than ever.
 
